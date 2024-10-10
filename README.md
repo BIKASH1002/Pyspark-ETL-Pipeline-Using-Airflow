@@ -73,6 +73,10 @@ The pipeline generates the following visualizations based on the transformed dat
     <img src="https://github.com/user-attachments/assets/0a607ba6-8229-4d00-915d-8c694d977d4d" alt="1" width="50%">
 </div>
 
+# Credits
+
+**Kaggle:** for dataset
+
 # License
 
 This project is licensed under the MIT License.
