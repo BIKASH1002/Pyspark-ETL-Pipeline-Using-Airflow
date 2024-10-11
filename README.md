@@ -75,7 +75,7 @@ The pipeline generates the following visualizations based on the transformed dat
 
 # Credits
 
-**Kaggle:** for dataset
+**Kaggle:** for Netflix dataset
 
 # License
 
