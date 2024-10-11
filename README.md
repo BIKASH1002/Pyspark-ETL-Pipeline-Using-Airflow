@@ -1,4 +1,5 @@
-![MasterHead](https://github.com/user-attachments/assets/b365e9f8-06ec-4035-8640-bb6951adbaa3)
+![MasterHead](https://github.com/user-attachments/assets/12e9a5a6-7e4f-4442-8b05-034f590faf6b)
+
 
 
 # Netflix Data ETL Pipeline using PySpark and Airflow
